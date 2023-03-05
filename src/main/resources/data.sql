@@ -9,4 +9,4 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 
 INSERT INTO tb_genre (name) VALUES ('Maria');
 
-
+INSERT INTO tb_movie (title, sub_Title, img_Url, synopsis, year, genre_id) VALUES ('Title', 'Subtitle', 'https://imgurl.com/img.png', 'Synopsis', 2021, 1) 
